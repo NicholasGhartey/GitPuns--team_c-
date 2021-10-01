@@ -1,0 +1,3 @@
+Hi guys, how is this?
+Don't bash that poor Git, it's cruel!
+Like this course, have you seen the SQL
